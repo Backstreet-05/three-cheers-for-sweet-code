@@ -72,7 +72,7 @@ export const research: Research[] = [
     points: [
       'DA-AGLC-GAN-SE: one CycleGAN-based model for haze, rain and snow, with task-conditioned squeeze-and-excitation attention, selective kernel fusion and cycle-contrastive learning',
       'multi-objective training: adversarial, perceptual, cycle-consistency, contrastive and classification losses',
-      'state-of-the-art among unpaired models on the comprehensive snow dataset (PSNR 29.08 → 31.82 dB, SSIM 0.80 → 0.8492), generalising well to RESIDE ITS/OTS',
+      'state-of-the-art among unpaired models on the comprehensive snow dataset (PSNR 20.98 → 31.82 dB, SSIM 0.80 → 0.8492), generalising well to RESIDE ITS/OTS',
     ],
   },
   {
