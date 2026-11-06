@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import { quips } from '../data/content';
+---
+
+<Base title="404 · anuran">
+  <main>
+    <h1 class="name">404</h1>
+    <p class="tagline">{quips.notFound}</p>
+    <nav class="links"><a href="/">home</a></nav>
+  </main>
+</Base>

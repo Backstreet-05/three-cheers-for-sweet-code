@@ -1,0 +1,9 @@
+# private documents: never commit or deploy
+*.pdf
+
+node_modules/
+dist/
+.astro/
+.vercel/
+.env*
+.DS_Store
