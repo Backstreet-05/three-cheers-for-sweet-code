@@ -1,8 +1,6 @@
-// all site content lives here. edit this file, not the page markup.
-
 export const profile = {
   name: 'anuran',
-  tagline: "graham potter's chelsea survivor. part-time software developer and machine learning researcher. full-time football manager addict. awake and unafraid. asleep or dead?",
+  tagline: "survived graham potter's chelsea. part-time software developer and machine learning researcher. full-time football manager addict. awake and unafraid. asleep or dead?",
   location: 'new delhi, india',
   email: 'ab473@snu.edu.in',
   github: 'https://github.com/Backstreet-05',
