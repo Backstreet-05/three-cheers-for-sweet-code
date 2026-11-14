@@ -1,6 +1,6 @@
 export const profile = {
-  name: 'anuran',
-  tagline: "survived graham potter's chelsea. part-time software developer and machine learning researcher. full-time football manager addict. watched the mentalist before it was cool (PLEASE believe me)",
+  name: 'anuran- yes that\'s my name',
+  tagline: "survived graham potter's chelsea. part-time software developer and machine learning researcher. full-time football manager addict. watched the mentalist before it was cool (PLEASE believe me, i'm niche like that)",
   location: 'new delhi, india',
   email: 'ab473@snu.edu.in',
   github: 'https://github.com/Backstreet-05',
