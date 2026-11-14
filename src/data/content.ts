@@ -1,13 +1,12 @@
 export const profile = {
   name: 'anuran',
-  tagline: "survived graham potter's chelsea. part-time software developer and machine learning researcher. full-time football manager addict. awake and unafraid. asleep or dead?",
+  tagline: "survived graham potter's chelsea. part-time software developer and machine learning researcher. full-time football manager addict. watched the mentalist before it was cool (PLEASE believe me)",
   location: 'new delhi, india',
   email: 'ab473@snu.edu.in',
   github: 'https://github.com/Backstreet-05',
   linkedin: 'https://www.linkedin.com/in/anuran-basu-12b739262/',
 };
 
-// your linkedin bio, lowercased. wording untouched.
 export const about = [
   "hey, i'm anuran, a fourth-year cs major at SNU.",
   'my work spans ai/ml, computer vision, full-stack development, quantitative finance and statistical modelling. i\'m drawn to problems that require technical depth and a bit of creativity: whether that means designing vision models for adverse weather, modelling rainfall patterns across india, or arguing that football matches are best understood through data rather than the "eye test" (i will always believe in you nicholas jackson).',
@@ -93,7 +92,6 @@ export type Project = {
   demo?: string;
 };
 
-// every project was a group effort with work split equally, except where the repo is solo.
 export const projects: Project[] = [
   {
     name: 'creditlens',
